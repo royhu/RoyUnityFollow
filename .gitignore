@@ -29,3 +29,6 @@
 ## Output path for "Asset Bundle Browser"
 /patches/
 ##
+
+## crash log
+mono_crash.*.json
