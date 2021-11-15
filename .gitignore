@@ -31,4 +31,4 @@
 ##
 
 ## crash log
-mono_crash.*.json
+mono_crash.*
